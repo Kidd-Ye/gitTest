@@ -4,4 +4,5 @@ mastercom1688
 
 mastercom16888229988
 
-new funtion
+new funtion1
+new funtion2
